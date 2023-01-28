@@ -11,7 +11,7 @@
 ## simulator
 [tinkercard](https://www.tinkercad.com/things/2pNqepVE2Jn?sharecode=Kq2LLRi3I9v8zFWgPUxuixixP-N8IsBFTWBN5Vt8uac)
 
-## run docker
+## demo
 ![mymovie](screenshots/mymovie.gif)
 
 1. ### src code
